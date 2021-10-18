@@ -1,4 +1,7 @@
-# my-first-project
+# my-first-project-with-frontity
+
+npm install - to add project dependences;
+npx frontity dev - to started project on localhost:3000
 
 This project was bootstrapped with [Frontity](https://frontity.org/).
 
@@ -14,8 +17,6 @@ This project was bootstrapped with [Frontity](https://frontity.org/).
 ```
 npx frontity dev
 ```
-
-Runs the app in development mode. Open http://localhost:3000 to view it in the browser.
 
 The site will automatically reload if you make changes inside the `packages` folder. You will see the build errors in the console.
 
@@ -60,21 +61,3 @@ This command generates (and runs) a small web server that uses the generated `se
 Upload your `static` folder to a CDN and your `server.js` file to a serverless service, like Vercel or Netlify.
 
 > Get more info about [how to deploy](https://docs.frontity.org/deployment) a Frontity project
-
----
-
-## Frontity Community
-
-[![Community Forum Topics](https://img.shields.io/discourse/topics?color=blue&label=community%20forum&server=https%3A%2F%2Fcommunity.frontity.org%2F)](https://community.frontity.org/) [![Twitter: frontity](https://img.shields.io/twitter/follow/frontity?style=social)](https://twitter.com/frontity) [![Frontity GitHub Stars](https://img.shields.io/github/stars/frontity/frontity?style=social)](https://github.com/frontity/frontity)
-
-👋 &nbsp;We'd love for you to be part of the Frontity community. There are a variety of different ways in which you can find more information about the project, join in discussions about it, and also get involved:
-
-- **[Learn Frontity](https://frontity.org/learn/)**: in this page you can find Frontity's primary learning resources, including documentation resources, example projects, videos, and more.
-- **[Community forum](https://community.frontity.org/)**: Frontity's forum is a great place to ask questions, help fellow Frontity users, and share your projects. It's also where you can keep track of the development work, join feature discussions, and collaborate on building Frontity itself.
-- **[GitHub](https://github.com/frontity/frontity)**: for bug reports and code contributions. Questions are answered in the community forum.
-
-If you're looking for news and updates about Frontity, [Twitter](https://twitter.com/frontity) and the [blog](https://frontity.org/blog/) are pretty good places to start. You can also join the **[Frontity Newsletter](https://frontity.org/newsletter/)** and stay updated on new releases and features, learning resources, and community news.
-
-### Contributing
-
-Frontity welcomes contributions in all forms. There are many different ways to support the project. Check out the **[How to contribute](https://docs.frontity.org/contributing/how-to-contribute)** page for ideas on contributing and helping make Frontity better.
