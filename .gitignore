@@ -20,7 +20,7 @@ lib-cov
 
 # Dependency directories
 node_modules/
-jspm_packages/
+
 
 # TypeScript cache
 *.tsbuildinfo
@@ -54,5 +54,5 @@ macOS .DS_Store files
 .yarn/install-state.gz
 .pnp.*
 
-# Frontity
-build
+
+.vercel
